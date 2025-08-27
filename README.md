@@ -89,4 +89,4 @@
 
 ---
 
-<p align="center">Feito com 💙, muito café e muitos sonhos. Obrigado por passar por aqui!</p>
+
