@@ -55,7 +55,7 @@
 ### 📜 Certificações
 
 - ✅ Inglês Nível C1 – Centro Britânico
-- 🗽 Inglês Nível B2 (168pts) - Internacional Cambridge Exam  
+- 🗽 Inglês Nível B2 (177pts) - Internacional Cambridge Exam  
 - 📘 Curso de Python - Udemy Course  
 - 📊 Introdução à Análise de Dados com Python (em andamento) - Udemy  
 - 🧠 Lógica de Programação e Estruturas de Dados - Universidade Anhembi Morumbi
