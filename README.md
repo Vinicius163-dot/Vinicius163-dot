@@ -84,8 +84,8 @@
 ### 📫 Vamos conectar?
 
 - 📧 E-mail: **vcpossato@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/vinicius-cardoso-618097371)  
-- 🌐 [Meu Portfólio](https://seusite.com) <!-- Substitua com seu link real -->
+- 💼 [LinkedIn](www.linkedin.com/in/vinicius-cardoso-618097371)  
+- 🌐 [Meu Portfólio](https://vinicius163-dot.github.io/) <!-- Substitua com seu link real -->
 
 ---
 
