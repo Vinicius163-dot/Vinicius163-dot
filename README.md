@@ -1,18 +1,18 @@
-<h1 align="center">Olá! Eu sou o Vinicius 👨‍💻</h1>
+
 
 <img width="1920" height="1080" alt="{ }" src="https://github.com/user-attachments/assets/ee8a0ff9-3e6c-4d4f-ac28-48d8c2e75b51" />
 
 
 ---
 
-### 👨‍💻 Sobre mim
+### Sobre mim:
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Anhembi Morumbi – 1º semestre  
-- 🧠 Interessado em explorar **todas as áreas da programação** e alcançar grandes objetivos  
-- 💻 Criando projetos para aprimorar minhas habilidades em linguagens e frameworks modernos  
-- 📚 Estudando **desenvolvimento web, análise de dados, automação e lógica de programação**  
-- 🎯 Em busca do meu **primeiro estágio** para aplicar na prática tudo que venho aprendendo  
-- 🗓️ **Previsão de Conclusão**: Julho de 2027
+-  Estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Anhembi Morumbi – 1º semestre  
+-  Interessado em explorar **todas as áreas da programação** e alcançar grandes objetivos  
+-  Criando projetos para aprimorar minhas habilidades em linguagens e frameworks modernos  
+-  Estudando **desenvolvimento web, análise de dados, automação e lógica de programação**  
+-  Em busca do meu **primeiro estágio** para aplicar na prática tudo que venho aprendendo  
+-  **Previsão de Conclusão**: Julho de 2027
 
 ---
 
@@ -28,6 +28,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
+                 
 </p>
 
 ---
