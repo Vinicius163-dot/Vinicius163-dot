@@ -1,49 +1,53 @@
 
 
-<img width="1920" height="1080" alt="{ }" src="https://github.com/user-attachments/assets/ee8a0ff9-3e6c-4d4f-ac28-48d8c2e75b51" />
+<img width="1920" height="1080" alt="{ } (2)" src="https://github.com/user-attachments/assets/d339cc2e-83cc-4626-984e-07135dc68709" />
+
 
 
 ---
-
 ### Sobre mim:
+Graduando em Análise e Desenvolvimento de Sistemas, com interesse em Engenharia de Software e desenvolvimento de soluções tecnológicas escaláveis. Possuo proficiência em inglês e estou em constante aprimoramento de habilidades técnicas e práticas, com foco em construir uma carreira sólida no setor de tecnologia e posteriormente me tornar um desenvolvedor Full-Stack.
 
--  Estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Anhembi Morumbi – 1º semestre  
--  Interessado em explorar **todas as áreas da programação** e alcançar grandes objetivos  
--  Criando projetos para aprimorar minhas habilidades em linguagens e frameworks modernos  
--  Estudando **desenvolvimento web, análise de dados, automação e lógica de programação**  
--  Em busca do meu **primeiro estágio** para aplicar na prática tudo que venho aprendendo  
--  **Previsão de Conclusão**: Julho de 2027
+**Previsão de Conclusão**: Julho de 2027
+
+---
+<div align="left">
+
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius163-dot&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinicius163-dot&theme=dark&hide_border=true" alt="GitHub Streak"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <table>
+        <tr>
+          <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=Vinicius163-dot&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats"/>
+          </td>
+          <td align="right">
+            <img width="200" height="200" alt="Robotocat" src="https://github.com/user-attachments/assets/c5e0f401-7af4-402a-8938-71120787a267"/>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
+---
+### Tecnologias e Ferramentas:
+ [![My Skills](https://skillicons.dev/icons?i=python,java,flask,googlecloud,aws,github,vscode,idea,mongodb,javascript,git,html,css,docker)](https://skillicons.dev)
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
-                 
-</p>
-
----
-
-### 🚀 Projetos em Andamento
-
-- 🤖 Criação de **Agentes Mensageiros** com lógica e automação  
-- 👨‍💼 Página pessoal responsiva com **HTML, CSS e JS**  
-- 📊 Dashboards e análises com **Python + Pandas**
-
----
-
-### 🎓 Formação Acadêmica
+### -> Formação Acadêmica
 
 - 🎓 **Ensino Médio** – Universidade Nove de Julho (Concluído)  
 - 🎓 **Graduação em ADS** – Universidade Anhembi Morumbi (Conclusão em 2027)  
@@ -51,26 +55,23 @@
 
 ---
 
-### 📜 Certificações
+### -> Certificações
 
-- ✅ Inglês Nível C1 – Centro Britânico
-- 🗽 Inglês Nível B2 (177pts) - Internacional Cambridge Exam  
-- 📘 Curso de Python - Udemy Course  
-- 📊 Introdução à Análise de Dados com Python (em andamento) - Udemy  
-- 🧠 Lógica de Programação e Estruturas de Dados - Universidade Anhembi Morumbi
-
----
-
-### 🌎 Idiomas
-
-- 🇧🇷 Português (Nativo)  
-- 🇺🇸 Inglês (Avançado – C1)
-
-  
+-  Inglês Nível C1 – Centro Britânico
+-  Inglês Nível B2 (177pts) - Internacional Cambridge Exam  
+-  Curso de Python Zero to Hero - Udemy Course  
+-  Introdução à Análise de Dados com Python (em andamento) - Udemy  
 
 ---
 
-### 💡 Soft Skills
+### -> Idiomas
+
+- Português (Nativo)  
+- Inglês (Avançado – C1)
+
+---
+
+### -> Soft Skills
 
 - Comunicação clara e empática  
 - Pensamento analítico  
@@ -80,7 +81,7 @@
 
 ---
 
-### 📫 Vamos conectar?
+### -> Vamos conectar?
 
 
 
