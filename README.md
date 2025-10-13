@@ -1,13 +1,7 @@
 <h1 align="center">Olá! Eu sou o Vinicius 👨‍💻</h1>
 
-<p align="center">
-  🚀 Desenvolvedor Front-End | 📚 Estudante de ADS | 💻 Futuro Engenheiro de Software
-</p>
+<img width="1920" height="1080" alt="{ }" src="https://github.com/user-attachments/assets/ee8a0ff9-3e6c-4d4f-ac28-48d8c2e75b51" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=viniciusCardoso&color=blue" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/viniciusCardoso?label=Followers&style=social" alt="GitHub followers" />
-</p>
 
 ---
 
