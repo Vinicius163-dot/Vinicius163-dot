@@ -85,7 +85,7 @@
 
 ### 📫 Vamos conectar?
 
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/18vOGIKMYnLFVZNNA7hlqR?utm_source=generator&theme=0" width="50%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 
 - 📧 E-mail: **vcpossato@gmail.com**  
 - 💼 [LinkedIn](www.linkedin.com/in/vinicius-cardoso-618097371)  
