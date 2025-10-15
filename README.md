@@ -85,9 +85,9 @@ Graduando em Análise e Desenvolvimento de Sistemas, com interesse em Engenharia
 
 
 
--  E-mail: **vcpossato@gmail.com**  
--  [LinkedIn: ](www.linkedin.com/in/vinicius-cardoso-618097371)  
--  [Portfólio: ](https://vinicius163-dot.github.io/) <!-- Substitua com seu link real -->
+-  **vcpossato@gmail.com**  
+-  [LinkedIn](www.linkedin.com/in/vinicius-cardoso-618097371)  
+-  [Portfólio](https://vinicius163-dot.github.io/) <!-- Substitua com seu link real -->
 
 ---
 
