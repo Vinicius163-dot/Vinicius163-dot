@@ -1,6 +1,7 @@
 
 
-<img width="1920" height="1080" alt="{ } (2)" src="https://github.com/user-attachments/assets/d339cc2e-83cc-4626-984e-07135dc68709" />
+<img width="1920" height="503" alt="Foto não carregada" src="https://github.com/user-attachments/assets/ed457876-aeec-4613-b273-99c8a52fa907" />
+
 
 
 
