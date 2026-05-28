@@ -11,41 +11,10 @@
 
   ### Sobre mim:
 
-  Graduando em **Análise e Desenvolvimento de Sistemas**, com foco em **Engenharia de Software** e construção de soluções escaláveis. Atualmente desenvolvendo projetos full-stack com **Next.js**, **Fastify**, **PostgreSQL** e arquitetura de monorepo. Proficiente
+  Atualmente desenvolvendo projetos full-stack com **Next.js**, **Fastify**, **PostgreSQL** e arquitetura de monorepo. Proficiente
    em inglês (C1) e em evolução técnica contínua, com objetivo de consolidar carreira como desenvolvedor **Full-Stack**.
 
   **Previsão de Conclusão:** Julho de 2027
-
-  ---
-
-  <div align="left">
-
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius163-dot&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages"/>
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinicius163-dot&theme=dark&hide_border=true" alt="GitHub Streak"/>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <table>
-          <tr>
-            <td>
-              <img src="https://github-readme-stats.vercel.app/api?username=Vinicius163-dot&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats"/>
-            </td>
-            <td align="right">
-              <img width="200" height="200" alt="Robotocat" src="https://github.com/user-attachments/assets/c5e0f401-7af4-402a-8938-71120787a267"/>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-
-  </div>
 
   ---
 
