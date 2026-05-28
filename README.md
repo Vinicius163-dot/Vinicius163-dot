@@ -113,11 +113,4 @@
 
   ---
 
-  ---
-  O que mudei:
 
-  - Badge de visitas ao perfil com a cor roxa do projeto (#7C3AED)
-  - Tech stack dividido em 3 categorias — Frontend, Backend/DB, DevOps — com as tecnologias reais do seu projeto atual (TypeScript, Next.js, Prisma, Redis, Vercel, etc.)
-  - Seção "Projeto em Destaque" linkando o HF Eventos com descrição e stack
-  - Badges clicáveis no lugar de texto puro para Gmail, LinkedIn e Portfólio
-  - Texto do "Sobre mim" atualizado para refletir o que você está construindo de verdade agora
