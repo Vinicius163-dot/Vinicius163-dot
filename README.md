@@ -12,7 +12,7 @@
   ### Sobre mim:
 
   Atualmente desenvolvendo projetos full-stack com **Next.js**, **Fastify**, **PostgreSQL** e arquitetura de monorepo. Proficiente
-   em inglês (C1) e em evolução técnica contínua, com objetivo de consolidar carreira como desenvolvedor **Full-Stack**.
+   em inglês (C1) e em evolução técnica contínua, com objetivo de consolidar carreira como **Engenheiro de Software**.
 
   **Previsão de Conclusão:** Julho de 2027
 
