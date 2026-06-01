@@ -24,7 +24,7 @@
   [![Frontend](https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,tailwind)](https://skillicons.dev)
 
   **Backend & Banco de Dados**
-  [![Backend](https://skillicons.dev/icons?i=nodejs,python,java,flask,postgres,mongodb,redis,prisma)](https://skillicons.dev)
+  [![Backend](https://skillicons.dev/icons?i=nodejs,python,java,go,flask,postgres,mongodb,redis,prisma)](https://skillicons.dev)
 
   **DevOps & Ferramentas**
   [![DevOps](https://skillicons.dev/icons?i=docker,git,github,vercel,gcp,aws,vscode,idea)](https://skillicons.dev)
