@@ -1,11 +1,3 @@
----
-  <img width="1920" height="503" alt="Banner HF Eventos" src="https://github.com/user-attachments/assets/ed457876-aeec-4613-b273-99c8a52fa907" />
-
-  <div align="center">
-
-  ![Profile Views](https://komarev.com/ghpvc/?username=Vinicius163-dot&color=7C3AED&style=flat-square&label=Visitas+ao+Perfil)
-
-  </div>
 
   ---
 
