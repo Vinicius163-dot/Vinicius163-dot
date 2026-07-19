@@ -13,13 +13,13 @@
   ### Tecnologias e Ferramentas:
 
 
-  [![Frontend](https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,tailwind)](https://skillicons.dev)
+  [![Frontend](https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,tailwind,bun,firebase)](https://skillicons.dev)
 
 
-  [![Backend](https://skillicons.dev/icons?i=nodejs,python,java,go,flask,postgres,mongodb,redis,prisma,hibernate,spring)](https://skillicons.dev)
+  [![Backend](https://skillicons.dev/icons?i=nodejs,python,java,go,flask,postgres,mongodb,redis,prisma,hibernate,spring,maven)](https://skillicons.dev)
 
 
-  [![DevOps](https://skillicons.dev/icons?i=docker,git,github,vercel,gcp,aws,vscode,idea,kubernetes,helm)](https://skillicons.dev)
+  [![DevOps](https://skillicons.dev/icons?i=docker,git,github,vercel,gcp,aws,vscode,idea,kubernetes,jenkins)](https://skillicons.dev)
 
   ---
 
